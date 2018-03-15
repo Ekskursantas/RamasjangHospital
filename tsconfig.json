@@ -1,0 +1,35 @@
+
+{
+    "compilerOptions": {
+        "strictNullChecks": false,
+        "declaration": false,
+        "emitDecoratorMetadata": true,
+        "noImplicitAny": false,
+        "removeComments": true,
+        "noLib": false,
+        "module": "commonjs",
+        // "sourceMap": false,
+        // "mapRoot": "./",
+
+        "sourceMap": true,
+        "rootDir": "./",
+        "target": "es5",
+        "lib": ["es6", "dom"],
+        "allowJs": false,
+        "pretty": true,
+        "experimentalDecorators": true,
+        "baseUrl": "./",
+        // "traceResolution": true,
+        // "moduleResolution": "node",
+        "typeRoots": [
+            "./node_modules/@types"
+        ],
+        "paths": {
+            "*": [
+                "./node_modules/@types/*",
+                "*"
+            ]
+        }
+    },
+    "compileOnSave": false
+}

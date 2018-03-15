@@ -1,0 +1,20 @@
+{"frames": {
+
+"ramasjangHospitalet_spriteAtlas_1.png":
+{
+	"frame": {"x":0,"y":0,"w":2048,"h":2048},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2048,"h":2048},
+	"sourceSize": {"w":2048,"h":2048}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "shhet_1.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:3ee24d47a2560c71a8b93ab9b770c712:283685760ffb7ef6daf6e9588764cb79:5e201007859fe36e0e30d61d5d1757d5$"
+}
+}

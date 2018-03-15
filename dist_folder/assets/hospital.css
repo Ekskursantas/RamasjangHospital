@@ -1,0 +1,28 @@
+html {
+  height: 100%;
+  overflow: hidden; /* Hides scrollbar in IE */
+  background: #1099bb;
+}
+
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  /*overflow: hidden;*/
+}
+
+/*#wrapper {display:table; width:100%;height:100%;}*/
+
+
+#container {
+    height: 100%;
+}
+
+#drhospital {
+    text-align: center;
+    position:relative;
+}
+
+#canvas_hospital {
+    display: inline;
+}

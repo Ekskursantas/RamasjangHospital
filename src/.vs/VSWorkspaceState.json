@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\hospital",
+    "\\hospital\\utils",
+    "\\hospital\\view",
+    "\\hospital\\view\\buttons",
+    "\\hospital\\view\\operatingroom"
+  ],
+  "SelectedNode": "\\hospital\\view\\operatingroom\\OperatingRoomView.ts",
+  "PreviewInSolutionExplorer": false
+}
